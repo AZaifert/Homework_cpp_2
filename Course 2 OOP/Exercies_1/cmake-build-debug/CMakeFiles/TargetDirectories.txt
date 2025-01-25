@@ -1,0 +1,3 @@
+D:/Coding/Git Projects/College-Homework-C-/Course 2 OOP/Exercies_1/cmake-build-debug/CMakeFiles/Exercies_1.dir
+D:/Coding/Git Projects/College-Homework-C-/Course 2 OOP/Exercies_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/Git Projects/College-Homework-C-/Course 2 OOP/Exercies_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

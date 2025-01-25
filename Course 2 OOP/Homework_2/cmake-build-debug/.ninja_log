@@ -1,0 +1,17 @@
+# ninja log v6
+4	254	7571839929515612	CMakeFiles/Assigment_2.dir/Names.cpp.obj	bdebf40a76f7411b
+1	255	7571839929485617	CMakeFiles/Assigment_2.dir/main.cpp.obj	c36a36c2c85b5e0c
+255	353	7571839932029504	Assigment_2.exe	e94b8eb9e82bfeb6
+3	219	7571904039915555	CMakeFiles/Assigment_2.dir/main.cpp.obj	c36a36c2c85b5e0c
+220	282	7571904042087826	Assigment_2.exe	e94b8eb9e82bfeb6
+6	231	7571920595842160	CMakeFiles/Assigment_2.dir/Names.cpp.obj	bdebf40a76f7411b
+3	231	7571920595812155	CMakeFiles/Assigment_2.dir/main.cpp.obj	c36a36c2c85b5e0c
+231	296	7571920598087804	Assigment_2.exe	e94b8eb9e82bfeb6
+6	221	7571925767949112	CMakeFiles/Assigment_2.dir/Names.cpp.obj	bdebf40a76f7411b
+3	221	7571925767919076	CMakeFiles/Assigment_2.dir/main.cpp.obj	c36a36c2c85b5e0c
+221	284	7571925770100089	Assigment_2.exe	e94b8eb9e82bfeb6
+6	225	7571934121506992	CMakeFiles/Assigment_2.dir/Names.cpp.obj	bdebf40a76f7411b
+3	231	7571934121486982	CMakeFiles/Assigment_2.dir/main.cpp.obj	c36a36c2c85b5e0c
+231	295	7571934123767871	Assigment_2.exe	e94b8eb9e82bfeb6
+4	244	7571939549264198	CMakeFiles/Assigment_2.dir/main.cpp.obj	c36a36c2c85b5e0c
+244	307	7571939551660291	Assigment_2.exe	e94b8eb9e82bfeb6

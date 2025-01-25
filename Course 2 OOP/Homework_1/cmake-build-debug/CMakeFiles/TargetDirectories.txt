@@ -1,0 +1,3 @@
+D:/Coding/CLionProjects/Course 2 Retake/Homework_1/cmake-build-debug/CMakeFiles/Homework_1.dir
+D:/Coding/CLionProjects/Course 2 Retake/Homework_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/CLionProjects/Course 2 Retake/Homework_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
