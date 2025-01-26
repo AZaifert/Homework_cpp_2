@@ -1,0 +1,12 @@
+# ninja log v6
+4	423	7596304570868739	CMakeFiles/Homework_3.dir/main.cpp.obj	7e2295ccd2e0dfb9
+5	391	7596305991083451	CMakeFiles/Homework_3.dir/Student1.cpp.obj	38b21dc7e3cb224b
+6	433	7596304570898739	CMakeFiles/Homework_3.dir/Student0.cpp.obj	e188f7ba212f01e0
+11	443	7596304570938739	CMakeFiles/Homework_3.dir/Student2.cpp.obj	caad34d632288ad7
+8	396	7596305991113409	CMakeFiles/Homework_3.dir/College.cpp.obj	c4bb7f9105c87a6e
+8	329	7596307095380062	CMakeFiles/Homework_3.dir/Course.cpp.obj	9e3e33659dd46dc7
+4	394	7596307095340100	CMakeFiles/Homework_3.dir/Student1.cpp.obj	38b21dc7e3cb224b
+6	405	7596307095360060	CMakeFiles/Homework_3.dir/College.cpp.obj	c4bb7f9105c87a6e
+405	475	7596307099352555	Homework_3.exe	82a3515c417e9cfe
+3	288	7596308112315922	CMakeFiles/Homework_3.dir/Student1.cpp.obj	38b21dc7e3cb224b
+289	360	7596308115176445	Homework_3.exe	82a3515c417e9cfe
